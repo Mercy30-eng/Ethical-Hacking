@@ -1,4 +1,4 @@
-# Ethical-Hacking
+# Ethical Hacking
 > Become an ethical hacker
 
 # What is Hacking? 👾
@@ -9,6 +9,7 @@
 
 # Who is a hacker? 👨‍💻
 A Hacker is a person who finds and exploits the weakness in computer systems and/or networks to gain access. Hackers are usually skilled computer programmers with knowledge of computer security. Hackers are classified according to the intent of their actions. The following list classifies hackers according to their intent.
-- <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat: A hacker who gains access to systems with a view to fix the identified weaknesses. They may also perform penetration Testing and vulnerability assessments</a>
+- <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat</a>
+   A hacker who gains access to systems with a view to fix the identified weaknesses. They may also perform penetration Testing and vulnerability assessments
 
 
